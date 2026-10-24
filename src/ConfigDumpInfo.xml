@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="72b48ff8-6601-44cf-8295-adef17a521fe" configVersion="f20eb36d394de4419b9801948a37d18300000000"/>
+		<Metadata name="Catalog.Товары" id="046fe8cb-6bbf-490e-a93d-600972d63e4f" configVersion="1dc354128a390643aea09e079f31785800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="e8be1ad9-75dd-4dac-89ca-1f438c88681f" configVersion="170514268bdea643afcfe35b013aa4ea00000000"/>
+		<Metadata name="Document.Поступление" id="a3edd9e7-740c-4150-8a84-9b362d2c2278" configVersion="c517b52b1b7099478b6ba6ae901b2d5a00000000"/>
+		<Metadata name="Document.Реализация" id="1d7583db-fac3-405e-b55b-64be91aa9d1c" configVersion="c0de19c577d761419f5986a1e3c7823700000000"/>
+		<Metadata name="Language.Русский" id="51c4546b-6b4d-4424-ab38-d4dcca023929" configVersion="ec6a7ff8c5d8d84ea280f2d73df12e8100000000"/>
+		<Metadata name="Subsystem.МиниСклад" id="88490f2e-2c61-4d9b-9f86-28f7688157cd" configVersion="78c0ae57ad046f48adecf149f52fa44d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
